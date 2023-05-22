@@ -67,8 +67,8 @@ export default function App({
 			<Text italic={true}>
 				Session Target 🎯 =&gt; <Text color="red">{tomatoes} 🍅</Text> |  Session/Break
 				Duration =&gt; <Text color="blue">{sessionDuration}</Text>/<Text color="yellow">{breakDuration}</Text> minutes{' '}
-				<Text>| Press P to ⏯️ pause/resume current session</Text>
 			</Text>
+			<Text>Press P to ⏯️ pause/resume current session</Text>
 
 			
 			<Newline></Newline>
