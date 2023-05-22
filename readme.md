@@ -27,4 +27,19 @@ $ PomoOnAShell --help
 	
 ```
 
+## Images
+
+
+> Startup
+
+![](https://github.com/AshminJayson/PomoOnAShell/blob/main/images/Startup.png)
+
+> Mid Session
+
+![](https://github.com/AshminJayson/PomoOnAShell/blob/main/images/midway.png)
+
+> On Completion
+> 
+![](https://github.com/AshminJayson/PomoOnAShell/blob/main/images/Completion.png)
+
 
