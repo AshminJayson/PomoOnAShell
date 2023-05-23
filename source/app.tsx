@@ -12,7 +12,7 @@ import {CycleView, TomatoMeter} from './components/index.js';
 import {timeFormats} from './types/index.js';
 
 export default function App({
-	tomatoes = 1,
+	tomatoes = 4,
 	breakDuration = 5,
 	sessionDuration = 25,
 }: pomoSettings) {

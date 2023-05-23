@@ -6,16 +6,16 @@
 
 
 ```bash
-$ npm install --global PomoOnAShell
+$ npm install --global pomoonashell
 ```
 
 ## CLI
 
 ```
-$ PomoOnAShell --help
+$ pomoonashell --help
 
 	Usage
-	  $ PomoOnAShell
+	  $ pomoOnAShell
 
 	Options
 		--tomatoes  The no of tomatoes to set for the session
@@ -23,7 +23,7 @@ $ PomoOnAShell --help
 		--breakDuration The break between each pomodoro session in minutes
 
 	Examples
-	  $ PomoOnAShell --tomatoes=5 --sessionDuration=25 --breakDuration=5
+	  $ pomoOnAShell --tomatoes=5 --sessionDuration=25 --breakDuration=5
 	
 ```
 

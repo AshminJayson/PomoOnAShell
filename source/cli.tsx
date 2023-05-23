@@ -8,7 +8,7 @@ const cli = meow(
 	
 	`
 	Usage
-	  $ PomoOnAShell
+	  $ pomoonashell
 
 	Options
 		--tomatoes  The no of tomatoes to set for the session
@@ -16,7 +16,7 @@ const cli = meow(
 		--breakDuration The break between each pomodoro session in minutes
 
 	Examples
-	  $ PomoOnAShell --tomatoes=5 --sessionDuration=25 --breakDuration=5
+	  $ pomoonashell --tomatoes=5 --sessionDuration=25 --breakDuration=5
 	  
 `,
 	{
