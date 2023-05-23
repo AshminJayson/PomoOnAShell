@@ -1,5 +1,7 @@
 # PomoOnAShell
 
+A minimalistic and goofy 🍅 pomodoro timer that runs on your terminal so that you can get the late night grind in.
+
 > Due Credits to [Ink](https://github.com/vadimdemedes/create-ink-app) for such a starting point.
 
 ## Install
