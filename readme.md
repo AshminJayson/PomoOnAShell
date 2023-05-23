@@ -17,7 +17,7 @@ $ npm install --global pomoonashell
 $ pomoonashell --help
 
 	Usage
-	  $ pomoOnAShell
+	  $ pomoonashell
 
 	Options
 		--tomatoes  The no of tomatoes to set for the session
@@ -25,7 +25,7 @@ $ pomoonashell --help
 		--breakDuration The break between each pomodoro session in minutes
 
 	Examples
-	  $ pomoOnAShell --tomatoes=5 --sessionDuration=25 --breakDuration=5
+	  $ pomoonashell --tomatoes=5 --sessionDuration=25 --breakDuration=5
 	
 ```
 
