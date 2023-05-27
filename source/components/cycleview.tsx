@@ -6,7 +6,7 @@ import { cycleViewProps } from "../types/index.js";
 
 export function CycleView({ remainingTime = {days:0, hours: 0, minutes: 0, seconds: 0}, currentCycle = '' } : cycleViewProps) {
 
-    const [currentCyclePrint, setCurrentCyclePrint] = useState(currentCycle);
+    const [currentCyclePrint, setCurrentCyclePrint] = useState<string>(currentCycle);
 
     useEffect(() => {
 

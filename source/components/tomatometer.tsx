@@ -5,8 +5,8 @@ import { tomatoMeterProps } from "../types/index.js";
 export function TomatoMeter({currentTomato = 0, totalTomatoes = 0} : tomatoMeterProps ) {
 
 
-    const [squashedTomatoes, setSquashedTomatoes] = useState('')
-    const [freshTomatoes, setFreshTomatoes] = useState('')
+    const [squashedTomatoes, setSquashedTomatoes] = useState<string>('')
+    const [freshTomatoes, setFreshTomatoes] = useState<string>('')
 
     
     useEffect(() => {

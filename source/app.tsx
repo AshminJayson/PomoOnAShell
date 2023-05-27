@@ -24,9 +24,9 @@ export default function App({
 		seconds: 0,
 	});
 
-	const [currentCycle, setCurrentCycle] = useState('Focus');
-	const [tomatoCount, setTomatoCount] = useState(0);
-	const [success, setSuccess] = useState(false);
+	const [currentCycle, setCurrentCycle] = useState<string>('Focus');
+	const [tomatoCount, setTomatoCount] = useState<number>(0);
+	const [success, setSuccess] = useState<boolean>(false);
 
 	useInput((input, _) => {
 		if (input === 'P' || input === 'p') {
